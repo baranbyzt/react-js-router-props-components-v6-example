@@ -1,0 +1,31 @@
+
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home_page{
+background-color: yellow;
+width: 260px;
+height: auto;
+text-align: center;
+border: 1px black solid;
+padding-bottom: 15px;
+border-radius: 20px;
+}
+.home_btn{
+cursor: pointer;
+padding: 12px;
+background-color: rgb(206, 14, 14);
+color: white;
+font-size: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.main_txt_home_page{
+    padding-top: 20px;
+    font-size: 30px;
+}
